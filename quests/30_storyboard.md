@@ -81,7 +81,7 @@
 "과연 근데렐라의 운명은?."  
 (웅장한 음악)
 ```
-
+##
 ## Script
 
-[]()
+[감정대사](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/quests/speech.wav)
