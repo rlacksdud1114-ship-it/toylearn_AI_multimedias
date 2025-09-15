@@ -40,7 +40,6 @@
 
 음악: 아련한 분위기의 BGM.
 ```
-## scence images
 
 ## SRT
 
@@ -81,7 +80,10 @@
 "과연 근데렐라의 운명은?."  
 (웅장한 음악)
 ```
-##
+## scence image
+
+[Gemini](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/tree/main/quests/image)
+
 ## Script
 
 [감정대사](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/quests/speech.wav)
