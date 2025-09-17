@@ -15,4 +15,13 @@ ex) 16:9 사이즈 변경  > 16:9= 1024:세로 > 챗봇에 답 물어보기
 
 ```
 
+## 단축기
+
+```
+-space bar : play, stop
+-c : cut
+-v : select
+-ctrl + A : All select
+-ctrl + s : 저장
+```
 
