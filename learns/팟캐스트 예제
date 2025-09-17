@@ -1,0 +1,79 @@
+
+## Podcast 영상 편집 프로세스 (feat. 실전 예제)
+
+
+### 0. 준비 파일
+```
+ + 3000 자 대사 storyboard
+ + 인간형 실사 동물 캐릭터 2 명
+ + 신빙성 있는 출처가 있는 자료 이미지 : 최소 2장
+```
+
+### 1. 주제선정  (Gemini)
+
+## Prompt 01
+```
+너는 20년차 동화 유튜버 리메이크 전문가야. 
+신박한 동화 등장인물 백설공주와 신데렐라의 미모 대결 스토리보드 만들어줘
+```
+
+### 2. Podcast 스토리보드 및 오디오 대본 생성 (Claude.ai)
+
+1. 레퍼런스 자료 입력
+```
+너는 팟캐스트 전문가야 
+아래 내용 검토 후 스토리보드 작성해주세요
+*-3000자 5분 영상 정도
+-주제는 신데렐라와 백설공주의 미모 대결 
+-스튜디오에서 직접 신데렐라와 백설공주가 대결하는 컨셉
+```
+
+2. AI 오디오 오버뷰 생성
+```
+팟캐스트 5분가량 영상 대본 만들어줘
+```
+
+
+### 3. 캐릭터 1 이미지 생성 (Whisk)
+```
+Prompt
+
+Humanoid animal, Cinderella, upper body, photorealistic, white background
+
+- style : disney 3d animation
+- background : none
+```
+[캐릭터 1 링크 ->](https://labs.google/fx/tools/whisk/share/68lmdl4290000)
+
+### 3-2. 캐릭터 2 이미지 생성 (Whisk)
+```
+Prompt
+
+Humanoid animal, Snow White, upper body, photorealistic, white background
+
+- style : disney 3d animation
+- background : none
+```
+[캐릭터 2 링크 ->](https://labs.google/fx/tools/whisk/share/2bvtgliaog000)
+
+### 4. 배경 생성 (Whisk)
+```
+Prompt
+
+Eco-friendly studio background, two microphones, two chairs and a desk
+
+- style : 자연친화적인 스타일
+```
+[배경 1 링크 ->](https://labs.google/fx/tools/whisk/share/3pl1kskvu0000)
+
+### 5. 오디오 생성 (구글 ai 오디오)
+
+```
+1. 2번의 생성된 오디오 파일을 구글 ai 스트디오에 아래와 같이 생성
+
+prompt 
+
+팟캐스트 대사 작성
+-2명이 대화 : 신데렐라, 백설공주
+대상 감정 표현 : 전사 기호 사용 , 일부는 흥분, 화남 감정 넣기
+```
