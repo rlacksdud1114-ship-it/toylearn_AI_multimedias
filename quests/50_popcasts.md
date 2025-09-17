@@ -55,3 +55,7 @@
 [신데렐라 실사화 사진](https://labs.google/fx/tools/whisk/share/7sjkrcf380000)
 
 [백설공주 실사화 사진](https://labs.google/fx/tools/whisk/share/4u68l5ln00000)
+
+## 배경사진 
+
+[배경사진](https://labs.google/fx/tools/whisk/share/3pl1kskvu0000)
