@@ -85,6 +85,3 @@ BGM:
 위기: 드라마틱한 오케스트라
 마지막: 애잔한 바이올린 솔로
 ```
-
-## 완료영상
-[영상](<video controls src="Sequence_난쟁이_450_800_1_Shorts.mp4" title="Title"></video>)
