@@ -228,3 +228,12 @@ After Effects: 글리치, 색수차, 렌즈 왜곡
 ```
 프롬프트 - Minimal Piano, Sound Design
 ```
+
+## AI 동영상 (Flow)
+
+[Scene1]()
+[Scene2]()
+[Scene3]()
+[Scene4]()
+[Scene5]()
+[Scene6]()
