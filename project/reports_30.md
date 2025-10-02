@@ -216,15 +216,15 @@ After Effects: 글리치, 색수차, 렌즈 왜곡
 
 ## 배경음악 (Music FX)
 
-[배경음악 1]()
+[배경음악 1](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EB%B0%B0%EA%B2%BD%EC%9D%8C%EC%95%85%201.wav)
 ```
 프롬프트- Cinematic Tension Build" 스타일
 ```
-[배경음악 2]()
+[배경음악 2](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EB%B0%B0%EA%B2%BD%EC%9D%8C%EC%95%85%202%20.wav)
 ```
 프롬프트 - Artlist 트랙명: "Tension Rising" by Lux-Inspira 시네마틱 오케스트라 + 일렉트로닉 드라마틱한 빌드업
 ```
-[배경음악 3]()
+[배경음악 3](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EB%B0%B0%EA%B2%BD%EC%9D%8C%EC%95%85%203.wav)
 ```
 프롬프트 - Minimal Piano, Sound Design
 ```
