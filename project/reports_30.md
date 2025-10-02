@@ -221,8 +221,8 @@ After Effects: 글리치, 색수차, 렌즈 왜곡
 ```
 ## 씬 별 대표 이미지 (Gemini)
 
-(인물)[https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%8C%80%ED%91%9C.png]
-(배경화면)[https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EB%B0%B0%EA%B2%BD%20%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png]
+[인물](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%8C%80%ED%91%9C.png)
+[배경화면](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EB%B0%B0%EA%B2%BD%20%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
 
 ## 오디오 나레이션 (Gemini)
 
