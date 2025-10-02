@@ -231,9 +231,13 @@ After Effects: 글리치, 색수차, 렌즈 왜곡
 
 ## AI 동영상 (Flow)
 
-[Scene1]()
-[Scene2]()
-[Scene3]()
-[Scene4]()
-[Scene5]()
-[Scene6]()
+[Scene1](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%8B%A01.mp4)
+[Scene2](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%8B%A02.mp4)
+[Scene3](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%8B%A03.mp4)
+[Scene4](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%94%AC4.mp4)
+[Scene5](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%94%AC5.mp4)
+[Scene6](https://github.com/rlacksdud1114-ship-it/toylearn_AI_multimedias/blob/main/project/%EC%94%AC6.mp4)
+
+```
+위의 동영상을 편집하여 영삭 제작
+```
